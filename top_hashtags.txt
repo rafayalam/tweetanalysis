@@ -1,0 +1,1 @@
+[('#bullying', 99), ('#bully', 36), ('#itreallymakesmemad', 29), ('#stopbullying', 20), ('#moms', 15), ('#p2', 12)]
